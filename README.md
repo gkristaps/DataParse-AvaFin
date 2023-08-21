@@ -8,3 +8,5 @@ Task is:
 4. Put all parsed data to the database using any programming language, preferably R or Phyton.
 You can use any SQL database engine. Please send us your code in the language used and SQL script to
 create DB structure.
+
+With Docker created SQL server, and on top of the SQL server, with Azure Data Studio, created MS SQL database avafin_task. 
